@@ -6,7 +6,7 @@ run `sh install.sh` from the requirement enviorments
 
 ## Step 2
 
-run `python 3 listen_colors.py`
+run `python3 listen_colors.py`
 
 ## Step 3
 
