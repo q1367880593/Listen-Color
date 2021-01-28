@@ -2,7 +2,7 @@
 
 ## Step 1
 
-run `sh install.sh` from the requirement enviorments
+run `sh install.sh` to install requirement enviorments
 
 ## Step 2
 
